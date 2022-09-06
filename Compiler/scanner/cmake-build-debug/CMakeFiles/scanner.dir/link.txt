@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/scanner.dir/main.cpp.o  -o scanner 

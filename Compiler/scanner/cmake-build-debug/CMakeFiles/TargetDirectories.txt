@@ -1,0 +1,3 @@
+/home/lightdress/CLionProjects/scanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lightdress/CLionProjects/scanner/cmake-build-debug/CMakeFiles/scanner.dir
+/home/lightdress/CLionProjects/scanner/cmake-build-debug/CMakeFiles/edit_cache.dir

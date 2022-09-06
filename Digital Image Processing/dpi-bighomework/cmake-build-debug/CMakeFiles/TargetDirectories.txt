@@ -1,0 +1,3 @@
+/home/lightdress/CLionProjects/bighomework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lightdress/CLionProjects/bighomework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lightdress/CLionProjects/bighomework/cmake-build-debug/CMakeFiles/bighomework.dir
